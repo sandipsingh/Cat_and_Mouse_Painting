@@ -1,0 +1,3 @@
+include ':app', ':infinitecycleviewpager', ':SupportLibrary-release'
+//include(":SupportLibrary")
+//project(":SupportLibrary").projectDir = new File("D:\\Android\\Library\\SupportLibrary")

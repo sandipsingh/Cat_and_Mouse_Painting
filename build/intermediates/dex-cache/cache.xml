@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\aa019ea88dc00442abbf0c036fea0c2bd003d99b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_bae2df716ab1549dd55099783f8517d1796d7297.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\fe1003ae73e8b056cb20c3454821c38df452252f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_9cff36a5424ac6c28dfbae5ca48283b3a87f41ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\a673cf588554c502dc49a3c6e596665eddc4a35d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f8eca600615954fbc3f2e4991b33e43702db86b">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_cb7bf3f24594f1afcd313ee3874e04309df57fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\3b2d08c204aaf21047059cf6c2bc517748c6ffcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2420506110902f033406b25697cf97ee8c38b2">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_5fd773c22abe3f5976aaaa9bc6f4fa619d53c20e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\d5a0de5a0b75040358ef7ee9822d21ef99969171\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_2d4320aae7f22546927d7e06eeb18852f2e6486d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\1b461b8fad2f36e226af4c3b963a9af503ab5d68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_eebe9d15a5993102f378ee3d2ad9bae5870dcff2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\c98999db96b4fbf45afa54268dc180598a50323b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_ce8120def28051eb70802ce6a032d52820fc6d82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\e454e566b49922bcfc3c75dc7f42a0523359afe6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_5975411c0b8e9943a3697b94bc601efc8b7f0e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\508b87f10fb9461bdde10d03c08b18802e672b56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_5584c2c7972c329ed714e212d7e86cc82fb202c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\9e30e8011236ee9ee5ef2e717efe34efb9838c71\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_cc519d1997b0df0bdc6c0e213f591626b36245d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\42b58e8e9e1289272e57b89fc2b89d51fb8f13e4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="826be871be126a3b836451ec77f76eb638f08dc9">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_68be3af3c8e7da04e8102f27672bf15af08c9b69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\a07c608535ab448925f33fe31c5276229f1d7aa4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_9e9a41d0848c56d57bb317b497f2e68704989138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\ed657db7d94013bf82ae4cf714776e7d204ded4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_2594da0c8145b8d586fc73c467c62cf5a78e1119.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\a673cf588554c502dc49a3c6e596665eddc4a35d\output\jars\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e2ec9a1a288c4a652f0611e2c2c31ab0f9df8fb">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_d72ac5ecc57bf395ad84afbce1be91bb8699f6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\a6b12a6148d1d49980e31b12d7be85b8c7a4d832\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_2ce3a7d5154c4ec948fc41cbaf3eb760430fcc38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\f58283e7a5758a0d2fc52011fa4e9725438bf218\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_fecb23660932d37af7fb29888afa4c08bb2401db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\26bc92af2377cab6f535d4660b8885ceed205008\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_9e364bddc182b4b630786063f8e157169a4fdee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_899fcd910ee0514a5a995e592209fe42f3f8e768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\91ce71d36c8ef77d7da7b6fd98b1d7060b09aa03\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_3927737171cbcde9b3e0351ea6f41a7307632c0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\RandroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_dca82932e9fd526a7eeb077ecf7713edd1b2bbe5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\754cdacc247292f8c1d989906de9a3a9f1551188\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_c79be2469e6ec84ff870c198322e883f76144d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\b5829a58dea27d1f47202d31c572858b8f8dea52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_00f4692389d874e4b18c95a10273f2f53ba398fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\36da495cf73edd6008155691e80a8826579fef47\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914bb2d94688f430ecad188a09b044535a279f87">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_f4688befa72636537d75e70839bccf255ec5e4ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pradeep\.android\build-cache\bef18fda021ed679203db4d012fe8e8a659f3c43\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\Pradeep\Desktop\DrawingBook-Animal\app\build\intermediates\pre-dexed\debug\classes_5eb715242e34a670722495ce250f9bff96fa4909.jar" />
+    </item>
+
+</items>

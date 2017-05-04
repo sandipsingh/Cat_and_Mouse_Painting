@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SupportLibrary-release-unspecified">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/a673cf588554c502dc49a3c6e596665eddc4a35d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a673cf588554c502dc49a3c6e596665eddc4a35d/output/jars/libs/universal-image-loader-1.9.5.jar!/" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a673cf588554c502dc49a3c6e596665eddc4a35d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
